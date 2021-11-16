@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.14
 
 LABEL maintainer="didlich.apps@gmail.com"
 
